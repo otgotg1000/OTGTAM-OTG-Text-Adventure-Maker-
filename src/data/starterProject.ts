@@ -1,12 +1,14 @@
 import { MediaAsset, StoryProject } from '../types/story';
 
+const ASSET_BASE = import.meta.env.BASE_URL || '/';
+
 export const BUILTIN_ASSETS: MediaAsset[] = [
   {
     id: 'img_gate',
     name: 'Clockwork Fortress Gate',
     kind: 'image',
     source: 'builtin',
-    url: '/src/assets/images/scene_clockwork_gate_1795261849348.jpg',
+    url: `${ASSET_BASE}src/assets/images/scene_clockwork_gate_1795261849348.jpg`,
     description: 'Ancient stone fortress gate inlaid with weathered brass gears',
   },
   {
@@ -14,7 +16,7 @@ export const BUILTIN_ASSETS: MediaAsset[] = [
     name: 'Alchemist & Astrolabe Vault',
     kind: 'image',
     source: 'builtin',
-    url: '/src/assets/images/scene_alchemist_vault_1795261849293.jpg',
+    url: `${ASSET_BASE}src/assets/images/scene_alchemist_vault_1795261849293.jpg`,
     description: 'Subterranean clockmaker workshop illuminated by amber vials',
   },
   {
@@ -22,7 +24,7 @@ export const BUILTIN_ASSETS: MediaAsset[] = [
     name: 'Grand Pendulum Hall',
     kind: 'image',
     source: 'builtin',
-    url: '/src/assets/images/scene_skybridge_hall_1795261848901.jpg',
+    url: `${ASSET_BASE}src/assets/images/scene_skybridge_hall_1795261848901.jpg`,
     description: 'Cathedral-scale clockwork hall lit by moonlight and golden pendulums',
   },
   {
@@ -30,7 +32,7 @@ export const BUILTIN_ASSETS: MediaAsset[] = [
     name: 'Clockwork Warden (Portrait)',
     kind: 'image',
     source: 'builtin',
-    url: '/src/assets/images/enemy_clockwork_warden_1795261849973.jpg',
+    url: `${ASSET_BASE}src/assets/images/enemy_clockwork_warden_1795261849973.jpg`,
     description: 'Armored brass-and-iron sentinel knight holding a halberd',
   },
   {
