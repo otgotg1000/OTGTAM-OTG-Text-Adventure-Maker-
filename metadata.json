@@ -1,0 +1,8 @@
+{
+  "name": "LoomForge",
+  "description": "Visual interactive fiction and RPG authoring studio with one-click images, synthesized audio, dice checks, inventory, quests, combat, and standalone HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
