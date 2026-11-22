@@ -137,6 +137,6 @@ OTGTAM is a 100% client-side application and can be deployed for free on **Verce
 
 ## License
 
-This project is licensed under the **Apache License 2.0** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — see the [LICENSE](LICENSE) file for details.
 
-> Stories, RPGs, and standalone HTML exports created with OTGTAM belong 100% to their respective authors.
+> Stories, RPGs, and standalone HTML exports created with OTGTAM belong 100% to their respective authors and may be published or licensed under any terms their creators choose.
