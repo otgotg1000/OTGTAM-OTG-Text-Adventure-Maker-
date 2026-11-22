@@ -14,14 +14,20 @@
 
 ## Screenshots
 
-### Welcome & Project Hub
+### 1. Welcome & Studio Hub
 ![OTGTAM Welcome & Studio Hub](docs/screenshots/home-studio.jpg)
 
-### Visual Branching Story Map & Passage Inspector
+### 2. New Project & Multi-Genre Setup
+![OTGTAM New Project & Genre Selection](docs/screenshots/new-project.jpg)
+
+### 3. Visual Branching Story Map & Passage Inspector
 ![OTGTAM Story Map Canvas & Passage Inspector](docs/screenshots/story-map.jpg)
 
-### Playtest & Standalone RPG Reader
-![OTGTAM Playtest & Interactive RPG Reader](docs/screenshots/playtest-reader.jpg)
+### 4. Story Systems (Stats, Inventory, Quests & Factions)
+![OTGTAM Story Systems Editor](docs/screenshots/story-systems.jpg)
+
+### 5. Media Vault & Web Audio Synth Studio
+![OTGTAM Media Vault & Web Audio Synth Studio](docs/screenshots/media-vault.jpg)
 
 ---
 
